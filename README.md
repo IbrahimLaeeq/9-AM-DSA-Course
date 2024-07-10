@@ -24,8 +24,8 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/5/2024 - Day 5:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/), [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) - [Facebook Video](https://fb.watch/t7dI5CDwVu/)
 
 ### Week 2
-- **7/8/2024 - Day 1:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=RrOyzY2LzRI&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=1)
-- **7/9/2024 - Day 2:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=E11QrlSjTHU&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=7)
-- **7/10/2024 - Day 3:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/), [Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Facebook Video](https://fb.watch/te8-UffhHY/)
+- **7/8/2024 - Day 1:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=RrOyzY2LzRI&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=1) **Presenter : Muhammad Jawad**
+- **7/9/2024 - Day 2:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=E11QrlSjTHU&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=7) **Presenter : Muhammad Jawad**
+- **7/10/2024 - Day 3:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/), [Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Facebook Video](https://fb.watch/te8-UffhHY/) **Presenter :Muhammad Jawad, Abdullah Siddique**
 - **7/11/2024 - Day 4:** No specific questions listed. - [Facebook Video](LINK_TO_FACEBOOK_VIDEO_9)
 - **7/12/2024 - Day 5:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - [Facebook Video](LINK_TO_FACEBOOK_VIDEO_10)
