@@ -14,6 +14,14 @@ Students can use this repository to revisit the problems discussed during the se
 
 Feel free to contribute by adding more questions, solutions, or suggesting improvements. 
 
+## Moderators and Trainers
+
+- [Ibrahim Laeeq](https://www.linkedin.com/in/ibrahim-laeeq)
+- [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-86507b201/)
+- [Abdullah Siddique](https://www.linkedin.com/in/abdullah-siddique-682734263/)
+- [Aymen Noor](https://www.linkedin.com/in/aymen-noor/)
+
+
 ## Weekly Schedule
 
 ### Week 1 Presenter : Ibrahim Laeeq
@@ -27,5 +35,5 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/8/2024 - Day 1:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=RrOyzY2LzRI&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=1) **Presenter : Muhammad Jawad**
 - **7/9/2024 - Day 2:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=E11QrlSjTHU&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=7) **Presenter : Muhammad Jawad**
 - **7/10/2024 - Day 3:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/), [Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Facebook Video](https://fb.watch/te8-UffhHY/) **Presenter :Muhammad Jawad, Abdullah Siddique**
-- **7/11/2024 - Day 4:** No specific questions listed. - [Facebook Video](LINK_TO_FACEBOOK_VIDEO_9)
+- **7/11/2024 - Day 4:** [3 Sum](https://leetcode.com/problems/3sum/description/), [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - [Facebook Video](https://fb.watch/tf8tmMdWY7/)
 - **7/12/2024 - Day 5:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - [Facebook Video](LINK_TO_FACEBOOK_VIDEO_10)
