@@ -21,6 +21,11 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - [Abdullah Siddique](https://www.linkedin.com/in/abdullah-siddique-682734263/)
 - [Aymen Noor](https://www.linkedin.com/in/aymen-noor/)
 
+  ## Poster
+
+![Course Poster](https://github.com/IbrahimLaeeq/9-AM-DSA-Course/blob/main/icodeguru%20course%202.jpg)
+
+
 
 ## Weekly Schedule
 
@@ -37,3 +42,4 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/10/2024 - Day 3:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/), [Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Facebook Video](https://fb.watch/te8-UffhHY/) **Presenter :Muhammad Jawad, Abdullah Siddique**
 - **7/11/2024 - Day 4:** [3 Sum](https://leetcode.com/problems/3sum/description/), [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - [Facebook Video](https://fb.watch/tf8tmMdWY7/) **Presenter :Ibrahim Laeeq**
 - **7/12/2024 - Day 5:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/), [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/794449629162205) **Presenter :Ibrahim Laeeq**
+
