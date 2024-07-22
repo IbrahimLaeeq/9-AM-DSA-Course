@@ -43,3 +43,18 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/11/2024 - Day 4:** [3 Sum](https://leetcode.com/problems/3sum/description/), [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - [Facebook Video](https://fb.watch/tf8tmMdWY7/) **Presenter :Ibrahim Laeeq**
 - **7/12/2024 - Day 5:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/), [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/794449629162205) **Presenter :Ibrahim Laeeq**
 
+### Week 3
+- **7/15/2024 - Day 1:** [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/), [Reorder List](https://leetcode.com/problems/reoder-list/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/409667202104324/) **Presenter : Muhammad Jawad**
+- **7/18/2024 - Day 4:** [Can Place Flowers](https://leetcode.com/problems/can-placce-flowers/description/), [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Facebook Video](https://youtu.be/n0hnDAJXbVc?si=ZGaoem_g9ND-6BAd) **Presenter : Muhammad Umar, Muhammad Jawad**
+- **7/19/2024 - Day 5:** [Reorder List](https://leetcode.com/problems/reoder-list/description/) Space Complexity O(1), [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/991302216122492/) **Presenter : Muhammad Jawad**
+
+
+### Week 4
+- **7/22/2024 - Day 1:** [Same Tree](https://leetcode.com/problems/same-tree), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-seach-tree) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/385353554565614/) **Presenter : Abdullah Siddique**
+<!-- 
+- **7/23/2024 - Day 2:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Jawad**
+- **7/24/2024 - Day 3:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **7/25/2024 - Day 4:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Ibrahim Laeeq**
+- **7/26/2024 - Day 5:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Ibrahim Laeeq**
+-->
+
