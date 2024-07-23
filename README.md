@@ -51,8 +51,8 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 
 ### Week 4
 - **7/22/2024 - Day 1:** [Same Tree](https://leetcode.com/problems/same-tree), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-seach-tree) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/385353554565614/) **Presenter : Abdullah Siddique**
+- **7/23/2024 - Day 2:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1234272844605423/) **Presenter : Muhammad Jawad**
 <!-- 
-- **7/23/2024 - Day 2:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Jawad**
 - **7/24/2024 - Day 3:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
 - **7/25/2024 - Day 4:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Ibrahim Laeeq**
 - **7/26/2024 - Day 5:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Ibrahim Laeeq**
