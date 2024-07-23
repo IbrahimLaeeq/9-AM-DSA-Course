@@ -46,7 +46,7 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 ### Week 3
 - **7/15/2024 - Day 1:** [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/), [Reorder List](https://leetcode.com/problems/reoder-list/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/409667202104324/) **Presenter : Muhammad Jawad**
 - **7/18/2024 - Day 4:** [Can Place Flowers](https://leetcode.com/problems/can-placce-flowers/description/), [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Facebook Video](https://youtu.be/n0hnDAJXbVc?si=ZGaoem_g9ND-6BAd) **Presenter : Muhammad Umar, Muhammad Jawad**
-- **7/19/2024 - Day 5:** [Reorder List](https://leetcode.com/problems/reoder-list/description/) with Space Complexity O(1), [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/991302216122492/) **Presenter : Muhammad Jawad**
+- **7/19/2024 - Day 5:** [Reorder List](https://leetcode.com/problems/reorder-list/description/) with Space Complexity O(1), [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/991302216122492/) **Presenter : Muhammad Jawad**
 
 
 ### Week 4
