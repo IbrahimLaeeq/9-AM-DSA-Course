@@ -52,9 +52,24 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 ### Week 4
 - **7/22/2024 - Day 1:** [Same Tree](https://leetcode.com/problems/same-tree), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-seach-tree) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/385353554565614/) **Presenter : Abdullah Siddique**
 - **7/23/2024 - Day 2:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1234272844605423/) **Presenter : Muhammad Jawad**
-<!-- 
-- **7/24/2024 - Day 3:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
-- **7/25/2024 - Day 4:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Ibrahim Laeeq**
-- **7/26/2024 - Day 5:** [P](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Ibrahim Laeeq**
+- **7/24/2024 - Day 3:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) with different codes - [Facebook Video](https://www.facebook.com/share/v/njTXmVXXFwTVMJUX/?mibextid=oFDknk) **Presenter : Muhammad Jawad**
+- **7/25/2024 - Day 4:** [House Robber](https://leetcode.com/problems/house-robber/description/) - [Facebook Video](https://www.facebook.com/share/v/botaNvjs7Nu5wsWx/?mibextid=oFDknk) **Presenter : Muhammad Jawad** 
+- **7/26/2024 - Day 5:** [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) - [Facebook Video](https://www.facebook.com/share/v/3KttJSpsUUFfbcHp/?mibextid=oFDknk) **Presenter : Abdullah Siddique**
+
+<!--
+### Week 5
+- **7/29/2024 - Day 1:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **7/30/2024 - Day 2:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **7/31/2024 - Day 3:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/01/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/02/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
 -->
 
+<!--
+### Week 6
+- **8/05/2024 - Day 1:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/06/2024 - Day 2:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/07/2024 - Day 3:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/08/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/09/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+-->
