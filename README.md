@@ -52,13 +52,13 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/22/2024 - Day 1:** [Same Tree](https://leetcode.com/problems/same-tree), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-seach-tree) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/385353554565614/) **Presenter : Abdullah Siddique**
 - **7/23/2024 - Day 2:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1234272844605423/) **Presenter : Muhammad Jawad**
 - **7/24/2024 - Day 3:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) with different codes - [Facebook Video](https://www.facebook.com/share/v/njTXmVXXFwTVMJUX/?mibextid=oFDknk) **Presenter : Muhammad Jawad**
-- **7/25/2024 - Day 4:** [House Robber](https://leetcode.com/problems/house-robber/description/) - [Facebook Video](https://www.facebook.com/share/v/botaNvjs7Nu5wsWx/?mibextid=oFDknk) **Presenter : Muhammad Jawad** 
+- **7/25/2024 - Day 4:** [House Robber](https://leetcode.com/problems/house-robber/description/) with recursive approach - [Facebook Video](https://www.facebook.com/share/v/botaNvjs7Nu5wsWx/?mibextid=oFDknk) **Presenter : Muhammad Jawad** 
 - **7/26/2024 - Day 5:** [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) - [Facebook Video](https://www.facebook.com/share/v/3KttJSpsUUFfbcHp/?mibextid=oFDknk) **Presenter : Abdullah Siddique**
 - 
 ### Week 5
-- **7/29/2024 - Day 1:** [](https://leetcode.com/problems/house-robber/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/800773178838246) **Presenter : Muhammad Saqlain**
+- **7/29/2024 - Day 1:** [House Robber](https://leetcode.com/problems/house-robber/description) with dynamic programming - [Facebook Video](https://www.facebook.com/iCodeguru/videos/800773178838246) **Presenter : Muhammad Saqlain**
+- **7/30/2024 - Day 2:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/856998569687930) **Presenter : Muhammad Hanzla**
 <!--
-- **7/30/2024 - Day 2:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
 - **7/31/2024 - Day 3:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
 - **8/01/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
 - **8/02/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
@@ -72,3 +72,4 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **8/08/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
 - **8/09/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
 -->
+
