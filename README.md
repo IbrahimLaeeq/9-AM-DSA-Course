@@ -40,7 +40,7 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/8/2024 - Day 1:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=RrOyzY2LzRI&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=1) **Presenter : Muhammad Jawad**
 - **7/9/2024 - Day 2:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Facebook Video](https://www.youtube.com/watch?v=E11QrlSjTHU&list=PLe-jr3hh4N_n_eO74gWDbWo1vTGOwNgDt&index=7) **Presenter : Muhammad Jawad**
 - **7/10/2024 - Day 3:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/), [Rotate Array](https://leetcode.com/problems/rotate-array/description/) - [Facebook Video](https://fb.watch/te8-UffhHY/) **Presenter :Muhammad Jawad, Abdullah Siddique**
-- **7/11/2024 - Day 4:** [3 Sum](https://leetcode.com/problems/3sum/description/), [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - [Facebook Video](https://fb.watch/tf8tmMdWY7/) **Presenter :Ibrahim Laeeq**
+- **7/11/2024 - Day 4:** [3 Sum](https://leetcode.com/problems/3sum/description/), [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - [Facebook Video](https://fb.watch/tf8tmMdWY7/) **Presenter : Ibrahim Laeeq**
 - **7/12/2024 - Day 5:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/), [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/794449629162205) **Presenter :Ibrahim Laeeq**
 
 ### Week 3
@@ -58,8 +58,8 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 ### Week 5
 - **7/29/2024 - Day 1:** [House Robber](https://leetcode.com/problems/house-robber/description) with dynamic programming - [Facebook Video](https://www.facebook.com/iCodeguru/videos/800773178838246) **Presenter : Muhammad Saqlain**
 - **7/30/2024 - Day 2:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/856998569687930) **Presenter : Muhammad Hanzla**
+- **7/31/2024 - Day 3:** [Maximum Product Subarray](https://leetcode.com/problems/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/347118865161283/) **Presenter : Ibrahim Laeeq**
 <!--
-- **7/31/2024 - Day 3:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
 - **8/01/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
 - **8/02/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Muhammad Saqlain**
 -->
