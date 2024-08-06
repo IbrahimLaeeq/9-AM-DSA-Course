@@ -54,7 +54,8 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/24/2024 - Day 3:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) with different codes - [Facebook Video](https://www.facebook.com/share/v/njTXmVXXFwTVMJUX/?mibextid=oFDknk) **Presenter : Muhammad Jawad**
 - **7/25/2024 - Day 4:** [House Robber](https://leetcode.com/problems/house-robber/description/) with recursive approach - [Facebook Video](https://www.facebook.com/share/v/botaNvjs7Nu5wsWx/?mibextid=oFDknk) **Presenter : Muhammad Jawad** 
 - **7/26/2024 - Day 5:** [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) - [Facebook Video](https://www.facebook.com/share/v/3KttJSpsUUFfbcHp/?mibextid=oFDknk) **Presenter : Abdullah Siddique**
-- 
+
+  
 ### Week 5
 - **7/29/2024 - Day 1:** [House Robber](https://leetcode.com/problems/house-robber/description) with dynamic programming - [Facebook Video](https://www.facebook.com/iCodeguru/videos/800773178838246) **Presenter : Muhammad Saqlain**
 - **7/30/2024 - Day 2:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/856998569687930) **Presenter : Muhammad Hanzla**
@@ -62,10 +63,11 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **8/01/2024 - Day 4:** [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/983277393595715) **Presenter : Muhammad Hanzla**
 - **8/02/2024 - Day 5:** [Evaluate Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/) - [Facebook Video](https://youtu.be/PyJM8n8SSKs) **Presenter : Muhammad Jawad**
 
-<!--
+
 ### Week 6
-- **8/05/2024 - Day 1:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
-- **8/06/2024 - Day 2:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/05/2024 - Day 1:** [Course Schedule](https://leetcode.com/problems/course-schedule) - [Facebook Video](https://www.facebook.com/share/v/r2y8geM5mX58eiM1/?mibextid=oFDknk) **Presenter : Muhammad Saqlain**
+- **8/06/2024 - Day 2:** [Coin Chage](https://leetcode.com/problems/coin-change) - [Facebook Video](https://www.facebook.com/share/v/TraA86c7KgVH9D7A/?mibextid=oFDknk) **Presenter : Muhammad Hanzla**
+<!--
 - **8/07/2024 - Day 3:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
 - **8/08/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
 - **8/09/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
