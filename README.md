@@ -72,8 +72,8 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **8/09/2024 - Day 5:** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) - [Facebook Video](https://www.facebook.com/share/v/pHq41MmTUUsV6iNQ/?mibextid=oFDknk) **Presenter : Ibrahim Laeeq**
 
 ### Week 7
-- **8/12/2024 - Day 1:** [Course Schedule](https://leetcode.com/problems/course-schedule-iii) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/524499146704274) **Presenter : Muhammad Saqlain**
-- **8/13/2024 - Day 2:** [Coin Chage](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/2213567865690427) **Presenter : Muhammad Hanzla**
+- **8/12/2024 - Day 1:** [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/524499146704274) **Presenter : Muhammad Saqlain**
+- **8/13/2024 - Day 2:** [Cheapest Flights within k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/2213567865690427) **Presenter : Muhammad Hanzla**
 <!--
 - **8/14/2024 - Day 3:** [R]() - [Facebook Video]() **Presenter : **
 - **8/15/2024 - Day 4:** [W]() - [Facebook Video]() **Presenter : **
