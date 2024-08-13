@@ -67,9 +67,15 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 ### Week 6
 - **8/05/2024 - Day 1:** [Course Schedule](https://leetcode.com/problems/course-schedule) - [Facebook Video](https://www.facebook.com/share/v/r2y8geM5mX58eiM1/?mibextid=oFDknk) **Presenter : Muhammad Saqlain**
 - **8/06/2024 - Day 2:** [Coin Chage](https://leetcode.com/problems/coin-change) - [Facebook Video](https://www.facebook.com/share/v/TraA86c7KgVH9D7A/?mibextid=oFDknk) **Presenter : Muhammad Hanzla**
-<!--
-- **8/07/2024 - Day 3:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
-- **8/08/2024 - Day 4:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
-- **8/09/2024 - Day 5:** [p](https://leetcode.com/problems/) - [Facebook Video]() **Presenter : Abdullah Siddique**
--->
+- **8/07/2024 - Day 3:** [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/485019524485313) **Presenter : Abdullah Siddique**
+- **8/08/2024 - Day 4:** [Word Break](https://leetcode.com/problems/word-break) - [Facebook Video]() **Presenter : Abdullah Siddique**
+- **8/09/2024 - Day 5:** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) - [Facebook Video](https://www.facebook.com/share/v/pHq41MmTUUsV6iNQ/?mibextid=oFDknk) **Presenter : Ibrahim Laeeq**
 
+### Week 7
+- **8/12/2024 - Day 1:** [Course Schedule](https://leetcode.com/problems/course-schedule-iii) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/524499146704274) **Presenter : Muhammad Saqlain**
+- **8/13/2024 - Day 2:** [Coin Chage](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/2213567865690427) **Presenter : Muhammad Hanzla**
+<!--
+- **8/14/2024 - Day 3:** [R]() - [Facebook Video]() **Presenter : **
+- **8/15/2024 - Day 4:** [W]() - [Facebook Video]() **Presenter : **
+- **8/16/2024 - Day 5:** [B]() - [Facebook Video]() **Presenter : **
+-->
