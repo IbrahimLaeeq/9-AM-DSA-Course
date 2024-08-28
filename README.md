@@ -55,14 +55,12 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **7/25/2024 - Day 4:** [House Robber](https://leetcode.com/problems/house-robber/description/) with recursive approach - [Facebook Video](https://www.facebook.com/share/v/botaNvjs7Nu5wsWx/?mibextid=oFDknk) **Presenter : Muhammad Jawad** 
 - **7/26/2024 - Day 5:** [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) - [Facebook Video](https://www.facebook.com/share/v/3KttJSpsUUFfbcHp/?mibextid=oFDknk) **Presenter : Abdullah Siddique**
 
-  
 ### Week 5
 - **7/29/2024 - Day 1:** [House Robber](https://leetcode.com/problems/house-robber/description) with dynamic programming - [Facebook Video](https://www.facebook.com/iCodeguru/videos/800773178838246) **Presenter : Muhammad Saqlain**
 - **7/30/2024 - Day 2:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/856998569687930) **Presenter : Muhammad Hanzla**
 - **7/31/2024 - Day 3:** [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/347118865161283/) **Presenter : Ibrahim Laeeq**
 - **8/01/2024 - Day 4:** [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/983277393595715) **Presenter : Muhammad Hanzla**
 - **8/02/2024 - Day 5:** [Evaluate Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/) - [Facebook Video](https://youtu.be/PyJM8n8SSKs) **Presenter : Muhammad Jawad**
-
 
 ### Week 6
 - **8/05/2024 - Day 1:** [Course Schedule](https://leetcode.com/problems/course-schedule) - [Facebook Video](https://www.facebook.com/share/v/r2y8geM5mX58eiM1/?mibextid=oFDknk) **Presenter : Muhammad Saqlain**
@@ -77,4 +75,19 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **8/14/2024 - Day 3:** [Swim in rising water](https://leetcode.com/problems/swim-in-rising-water/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1523568668232164) **Presenter : Muhammad Saqlain**
 - **8/15/2024 - Day 4:** [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/230797220128967) **Presenter : Muhamad Hanzla**
 - **8/16/2024 - Day 5:** [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/2762993810526153) **Presenter : Ibrahim Laeeq**
+<!--
+### Week 8
+- **8/19/2024 - Day 1:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/20/2024 - Day 2:** [p]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/21/2024 - Day 3:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/22/2024 - Day 4:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/23/2024 - Day 5:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
 
+### Week 9
+- **8/26/2024 - Day 1:** [P]() - [Facebook Video](https://web.facebook.com/share/v/zHuALZaUP7wh74KE/) **Presenter : Muhammad Saqlain**
+- **8/27/2024 - Day 2:** [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards), [Remove Elements](https://leetcode.com/problems/remove-element/) - [Facebook Video](https://web.facebook.com/share/v/pq8mbAU7TvRn8ZSM/) **Presenter : Abdullah Siddiq**
+- **8/28/2024 - Day 3:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/29/2024 - Day 4:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/30/2024 - Day 5:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+
+-->
