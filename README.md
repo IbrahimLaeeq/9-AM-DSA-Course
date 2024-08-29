@@ -75,19 +75,19 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **8/14/2024 - Day 3:** [Swim in rising water](https://leetcode.com/problems/swim-in-rising-water/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1523568668232164) **Presenter : Muhammad Saqlain**
 - **8/15/2024 - Day 4:** [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/230797220128967) **Presenter : Muhamad Hanzla**
 - **8/16/2024 - Day 5:** [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/2762993810526153) **Presenter : Ibrahim Laeeq**
-<!--
-### Week 8
-- **8/19/2024 - Day 1:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
-- **8/20/2024 - Day 2:** [p]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
-- **8/21/2024 - Day 3:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
-- **8/22/2024 - Day 4:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
-- **8/23/2024 - Day 5:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
 
+### Week 8
+- **8/19/2024 - Day 1:** [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/), [Subsets II](https://leetcode.com/problems/subsets-iii/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/414013561180383) **Presenter : Abdullah Siddiq and Muhammad Saqlain**
+- **8/20/2024 - Day 2:** [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/472102995589085) **Presenter : Muhammad Saqlain**
+- **8/21/2024 - Day 3:** [Word Ladder](https://leetcode.com/problems/word-ladder/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1992193197917866) **Presenter : Muhammad Saqlain**
+- **8/22/2024 - Day 4:** [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/26683206071292885) **Presenter : Muhammad Saqlain**
+- **8/23/2024 - Day 5:** [Partition Labels](https://leetcode.com/problems/partition-labels/), [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1305414207132898) **Presenter : Abdullah Siddiq**
+<!--
 ### Week 9
 - **8/26/2024 - Day 1:** [P]() - [Facebook Video](https://web.facebook.com/share/v/zHuALZaUP7wh74KE/) **Presenter : Muhammad Saqlain**
 - **8/27/2024 - Day 2:** [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards), [Remove Elements](https://leetcode.com/problems/remove-element/) - [Facebook Video](https://web.facebook.com/share/v/pq8mbAU7TvRn8ZSM/) **Presenter : Abdullah Siddiq**
-- **8/28/2024 - Day 3:** []Minimum Recolor to Get K Consecutive Black Blocks(https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1742184646586874/) **Presenter : Muhammad Jawad**
-- **8/29/2024 - Day 4:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
+- **8/28/2024 - Day 3:** []() - [Facebook Video]() **Presenter : Abdullah Siddiq**
+- **8/29/2024 - Day 4:** [Minimum Recolor to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1742184646586874/) **Presenter : Muhammad Jawad**
 - **8/30/2024 - Day 5:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
 
 -->
