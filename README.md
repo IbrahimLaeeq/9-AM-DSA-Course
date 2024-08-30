@@ -82,12 +82,10 @@ Feel free to contribute by adding more questions, solutions, or suggesting impro
 - **8/21/2024 - Day 3:** [Word Ladder](https://leetcode.com/problems/word-ladder/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1992193197917866) **Presenter : Muhammad Saqlain**
 - **8/22/2024 - Day 4:** [Unique Paths](https://leetcode.com/problems/unique-paths/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/26683206071292885) **Presenter : Muhammad Saqlain**
 - **8/23/2024 - Day 5:** [Partition Labels](https://leetcode.com/problems/partition-labels/), [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combination-of-a-phone-number/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1305414207132898) **Presenter : Abdullah Siddiq**
-<!--
+
 ### Week 9
 - **8/26/2024 - Day 1:** [P]() - [Facebook Video](https://web.facebook.com/share/v/zHuALZaUP7wh74KE/) **Presenter : Muhammad Saqlain**
 - **8/27/2024 - Day 2:** [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards), [Remove Elements](https://leetcode.com/problems/remove-element/) - [Facebook Video](https://web.facebook.com/share/v/pq8mbAU7TvRn8ZSM/) **Presenter : Abdullah Siddiq**
-- **8/28/2024 - Day 3:** []() - [Facebook Video]() **Presenter : Abdullah Siddiq**
+- **8/28/2024 - Day 3:** []() - [Facebook Video]() **Presenter : **
 - **8/29/2024 - Day 4:** [Minimum Recolor to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/1742184646586874/) **Presenter : Muhammad Jawad**
-- **8/30/2024 - Day 5:** [P]() - [Facebook Video]() **Presenter : Muhammad Saqlain**
-
--->
+- **8/30/2024 - Day 5:** [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) - [Facebook Video](https://www.facebook.com/iCodeguru/videos/481415938131506) **Presenter : Abdullah Siddiq**
